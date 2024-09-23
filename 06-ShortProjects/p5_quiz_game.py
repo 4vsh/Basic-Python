@@ -1,5 +1,9 @@
 import random
-
+print("Welcome to the Quiz Game!")
+print("Rules:")
+print("1. There are 5 questions in total.")
+print("2. You can choose A, B, C, or D for each question. {Dont write full Answer}")
+print("Thank you for playing this quiz game. Made with love by Aavash :)")
 def new_game():
 
     guesses = []
