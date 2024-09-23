@@ -16,6 +16,11 @@ This repository contains Python scripts organized from basic to advanced topics,
 ## Getting Started
 To get started, clone this repository to your local machine and run the scripts in your Python environment.
 
+```bash
+git clone https://github.com/4vsh/Basic-python.git
+cd Basic-python
+```
+
 ## File Structure
 Basics: Covers fundamental concepts such as variables, data types, and control structures.
 Data Structures: Introduces lists, tuples, dictionaries, and sets, along with their operations.
@@ -38,9 +43,5 @@ Feel free to contribute by adding more scripts or improving existing ones. Pull 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-```bash
-git clone https://github.com/4vsh/Basic-python.git
-cd Basic-python
 
 
